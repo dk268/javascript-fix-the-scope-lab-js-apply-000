@@ -30,3 +30,5 @@ var funkyFunction = function() {
 // NOTE: you only need to modify the code below this line.
 
 var theFunk = funkyFunction()()
+// Wait so what is this nonsense? funkyFunction is a function so running it should run function () on its own and then return the funky.
+// GDI why are these computers so human
